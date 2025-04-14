@@ -1,1 +1,2 @@
-added this line in featureA branch 
+added this line in featureA branch
+added this line from gitTests original folder on local
